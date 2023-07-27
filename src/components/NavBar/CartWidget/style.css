@@ -1,0 +1,12 @@
+.cart{
+    display: flex;
+    align-items: center;
+    color: #ebc90b;
+    font-weight: bold;
+
+}
+.cartIcon{
+    width: 40px;
+    height: 40px;
+    color: #ebc90b;
+}
