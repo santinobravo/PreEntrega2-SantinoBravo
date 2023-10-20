@@ -1,5 +1,6 @@
 import logo from "../../../assets/icons/logo.png"
-import "./style.css"
+import "../../../App.css"
+
 
 function Logo(){
     return(

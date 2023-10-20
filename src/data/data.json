@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hamburguesa Simple",
+        "descripcion": "Pan de papa, medallon de carne de 120 gr, doble cheddar, toppings a elección.",
+        "categoria": "Hamburguesas",
+        "imagen": "../../public/img/hamburguesaSimple.png",
+        "precio": 2200
+    },
+    {
+        "id": 2,
+        "titulo": "Hamburguesa Doble",
+        "descripcion":"Pan de papa,doble medallon de carne de 120 gr, cuadruple cheddar, toppings a elección.",
+        "categoria": "Hamburguesas",
+        "imagen": "../../public/img/hamburguesaDoble.png",
+        "precio": 2600
+    },
+    {
+        "id": 3,
+        "titulo": "Hamburguesa Triple",
+        "descripcion": "Pan de papa, triple medallon de carne de 120 gr, quintuple cheddar, toppings a elección.",
+        "categoria": "Hamburguesas",
+        "imagen": "../../public/img/hamburguesaTriple.png",
+        "precio": 3300
+    },
+    {
+        "id": 4,
+        "titulo": "Hamburguesa cuadruple",
+        "descripcion": "Pan de papa, cuadruple medallon de carne de 120 gr, sextuple cheddar, toppings a elección.",
+        "categoria": "Hamburguesas",
+        "imagen": "../../public/img/hamburguesaCuadruple.png",
+        "precio": 3900
+    },
+    {
+        "id": 5,
+        "titulo": "Papas Fritas Clásicas",
+        "descripcion": "Papas fritas McCain.",
+        "categoria": "Papas",
+        "imagen": "../../public/img/Papas-fritas_1.png",
+        "precio": 1900
+    },
+    {
+        "id": 6,
+        "titulo": "Papas Fritas con cheddar y panceta.",
+        "descripcion": "Papas fritas McCain con cheddar, panceta y ciboulette.",
+        "categoria": "Papas",
+        "imagen": "../../public/img/PapasFritasCheddar_1.png",
+        "precio": 2500
+    },
+    {
+        "id": 7,
+        "titulo": "Papas Fritas con huevo",
+        "descripcion": "Papas fritas McCain con huevo revuelto.",
+        "categoria": "Papas",
+        "imagen": "../../public/img/papas-con-huevo.png",
+        "precio": 2300
+    },    
+    {
+        "id": 8,
+        "titulo": "Papas Fritas Big Burger",
+        "descripcion": "Papas fritas McCain cubiertas de mayonesa Big Burger y ketchup, con pedazos de salchicha.",
+        "categoria": "Papas",
+        "imagen": "../../public/img/PapasBig.png",
+        "precio": 2800
+    },
+    {
+        "id": 9,
+        "titulo": "Lomito completo",
+        "descripcion": "Pan de lomo, bife de lomo, tomate, lechuga, huevo, jamon, queso, mayonesa Big Burger",
+        "categoria": "Lomitos",
+        "imagen": "../../public/img/lomo-completo.png",
+        "precio":3300
+    },
+    {
+        "id": 10,
+        "titulo": "Lomito doble",
+        "descripcion": "Pan de lomo, doble bife de lomo, tomate, lechuga, doble huevo, doble jamon, doble queso, mayonesa Big Burger",
+        "categoria": "Lomitos",
+        "imagen": "../../public/img/lomo-doble.png",
+        "precio": 3500
+    },
+    {
+        "id": 11,
+        "titulo": "Lomito veggie",
+        "descripcion": "Pan de lomo, lechuga, tomate, doble queso, huevo, pimientos asados, mayonesa Big Burger",
+        "categoria": "Lomitos",
+        "imagen": "../../public/img/lomo-vegano.png",
+        "precio": 2600
+    },
+    {
+        "id": 12,
+        "titulo": "Lomito Big Burger",
+        "descripcion": "Pan de lomo, bife de lomo, queso, chimichurri, tomate, lechuga, huevo, ajíes, morrón, mayonesa Big Burger",
+        "categoria": "Lomitos",
+        "imagen": "../../public/img/lomoBig.png",
+        "precio": 4200
+    }
+]
