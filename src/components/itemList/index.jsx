@@ -1,16 +1,16 @@
-import "../../App.css";
-import Item from "../item"
+import Item from "../item/index";
 
-const ItemList = ( {productos, titulo} ) => {
+
+const ItemList = ({ productos, titulo }) => {
 
     return (
         <div className="container">
-            <h2 className="main-title">{titulo}</h2>
-        <div className="productos">
-            { productos.map((prod) => <Item producto={prod} key={prod.id} />) }
-        </div>
-        </div>
+            <h2 className="main-title">{(titulo)}</h2>
 
+            <div className="productos">
+                {productos.map((prod) => <Item producto={prod} key={prod.id} />)}
+            </div>
+        </div>
     )
 }
 
